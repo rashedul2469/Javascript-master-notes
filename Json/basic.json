@@ -1,0 +1,13 @@
+{
+  "name": "Mahin",
+  "age": 22,
+  "isStudent": true,
+  "skills": ["JS", "Python", "C"],
+  "address": {
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  },
+  "salary":null
+}
+
+
