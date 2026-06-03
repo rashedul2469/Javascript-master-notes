@@ -42,7 +42,7 @@ console.log("========================================");
 /*
 
 let newArray = arr.map((value, index, array) => {
-  return someCondition; // true => keep / false => discard
+  return newValue;
 });
 
 */
